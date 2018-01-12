@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RxJava2Examples.iml" filepath="$PROJECT_DIR$/RxJava2Examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\02_Private\04_WorkSpace\AndroidStudio\RxJava2Examples\app\app.iml" filepath="E:\02_Private\04_WorkSpace\AndroidStudio\RxJava2Examples\app\app.iml" />
     </modules>
   </component>
 </project>
